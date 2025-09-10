@@ -35,11 +35,11 @@ const Footer = () => {
           ))}
         </div>
         <p className="text-[12px] sm:text-[16px]">
-          Copyright &copy; {copyrightYear} Picto.
+          Copyright &copy; {copyrightYear} Dr. Jonas Tamanini.
         </p>
       </div>
       <p className="text-white text-center max-xs:text-[12px] max-md:text-[14px] w-full py-10">
-        Developed with ❤️ by{" "}
+        Desenvolvido por{" "}
         <a
           href="https://www.bigdevz.com"
           className="underline font-bold"
