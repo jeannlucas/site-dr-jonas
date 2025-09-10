@@ -13,11 +13,11 @@ const addressData = [
     title: "Endereço",
     description: "Rua Rodrigo Silva 125 - Maringá - PR",
   },
-  {
-    icon: faEnvelope,
-    title: "Email",
-    description: "contato@drjonastamanino.com.br",
-  },
+  // {
+  //   icon: faEnvelope,
+  //   title: "Email",
+  //   description: "contato@drjonastamanino.com.br",
+  // },
   {
     icon: faPhone,
     title: "Telefone",
