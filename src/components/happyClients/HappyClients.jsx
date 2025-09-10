@@ -18,7 +18,7 @@ const HappyClients = () => {
         <div className="w-full h-64 sm:h-96 rounded-lg overflow-hidden shadow-lg">
           <iframe
             title="Localização"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.123456!2d-46.633308!3d-23.55052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59c4f1e8e9cd%3A0x123456789abcdef!2sSeu%20Local!5e0!3m2!1spt-BR!2sbr!4v1694179200000!5m2!1spt-BR!2sbr"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3660.9091283148573!2d-51.952422087461244!3d-23.427649556608607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd726738ba009%3A0xcb9815d785f496f5!2sPr%C3%B3%20Otorrino%20Maring%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1757544743090!5m2!1spt-BR!2sbr"
             width="100%"
             height="100%"
             style={{ border: 0 }}
