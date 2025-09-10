@@ -38,7 +38,7 @@ const Home = () => {
       <Contact />
 
       <a
-        href="https://wa.me/5544998101446?text=Olá, gostaria de agendar uma consulta com o Dr. Leonardo, por favor."
+        href="https://wa.me/5544999730804?text=Olá, gostaria de agendar uma consulta com o Dr. Jonas Tamanini, por favor."
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Agendar consulta pelo WhatsApp"

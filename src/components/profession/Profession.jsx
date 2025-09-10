@@ -5,25 +5,25 @@ const rolesData = [
     id: 1,
     title: "Como agendar uma consulta?",
     description:
-      "Você pode agendar sua consulta rapidamente pelo botão “Agendar Consulta” no site ou entrando em contato direto pelo WhatsApp. Garantimos atendimento personalizado e rápido.",
+      "Você pode agendar sua consulta rapidamente pelo botão “Agendar Consulta” no site ou entrando em contato diretamente pelo WhatsApp. Garantimos atendimento personalizado e rápido.",
   },
   {
     id: 2,
     title: "Quais tratamentos estão disponíveis?",
     description:
-      "Oferecemos tratamento completo para nariz, ouvido e garganta, incluindo prevenção e cuidado de otites, rinites, perda auditiva, roncos, sinusites, disfonias e muito mais.",
+      "Oferecemos tratamento completo para nariz, ouvido e garganta, incluindo prevenção e cuidados com otites, rinites, perda auditiva, roncos, sinusites, disfonias e muito mais.",
   },
   {
     id: 3,
     title: "O atendimento é humanizado?",
     description:
-      "Sim! Todo atendimento é focado em um cuidado humano e individualizado, garantindo que cada paciente se sinta acolhido e seguro.",
+      "Sim! Todo atendimento é focado em cuidado humano e individualizado, garantindo que cada paciente se sinta acolhido e seguro durante todo o processo.",
   },
   {
     id: 4,
     title: "Dr. Jonas é especialista?",
     description:
-      "Dr. Jonas Tamanini é médico otorrinolaringologista formado pela UEM, com residência e fellowship em Otologia e Otoneurologia pela UNICAMP, sempre atualizado e membro da ABORL-CCF.",
+      "Dr. Jonas Tamanini é médico otorrinolaringologista (CRM-PR: 43.806 | RQE: 33.717), formado pela UEM, com residência e fellowship em Otologia e Otoneurologia pela UNICAMP. Está sempre atualizado e é membro da ABORL-CCF.",
   },
 ];
 

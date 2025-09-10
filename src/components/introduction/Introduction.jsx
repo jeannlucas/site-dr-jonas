@@ -52,7 +52,8 @@ const Introduction = () => {
           <p className="text-center lg:text-start">
             <a
               className="btn-primary btn btn-xs xxs:btn-lg text-white"
-              href="mailto:example@gmail.com"
+              href="https://wa.me/5544999730804?text=Olá, gostaria de agendar uma consulta com o Dr. Jonas Tamanini, por favor."
+              target="_blank"
             >
               Agendar Consulta
             </a>

@@ -9,7 +9,8 @@ const WorkTogether = () => {
           Respire, ouça e viva melhor. Comece seu cuidado hoje!
         </p>
         <a
-          href="#!"
+          href="https://wa.me/5544999730804?text=Olá, gostaria de agendar uma consulta com o Dr. Jonas Tamanini, por favor."
+          target="_blank"
           className="btn btn-primary px-4 md:px-6.5 py-3 md:py-6 text-[12px] md:text-[16px]"
         >
           Marcar minha consulta agora
