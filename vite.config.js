@@ -4,11 +4,13 @@ import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig(({ mode }) => {
   const env = loadEnv(mode, process.cwd(), "");
-  const repoName = env.VITE_REPO_NAME || ""; // fallback vazio
+  const repoName = env.VITE_REPO_NAME || "";
+
+  const isVercel = !!process.env.VERCEL;
   const isProd = mode === "production";
 
   return {
-    base: isProd ? `/${repoName}/` : "/", // "/" para dev local
+    base: isVercel ? "/" : isProd ? `/${repoName}/` : "/",
     plugins: [react(), tailwindcss()],
     server: {
       open: true,
@@ -20,7 +22,6 @@ export default defineConfig(({ mode }) => {
           secure: true,
         },
       },
-      historyApiFallback: true,
     },
   };
 });
