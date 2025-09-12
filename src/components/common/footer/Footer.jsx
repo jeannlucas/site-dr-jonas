@@ -2,13 +2,12 @@ import logo from "../../../assets/logo.png";
 
 /* Footer nabLinks */
 const navItems = [
-  { id: 1, name: "Home", url: "Home" },
-  { id: 2, name: "About", url: "About" },
-  { id: 3, name: "Process", url: "Process" },
-  { id: 4, name: "Portfolio", url: "Portfolio" },
-  { id: 5, name: "Blog", url: "Blog" },
-  { id: 6, name: "Services", url: "Services" },
-  { id: 7, name: "Contact", url: "Contact" },
+  { id: 1, name: "Home", url: "introduction" },
+  { id: 2, name: "Sobre", url: "profile" },
+  // { id: 3, name: "Dúvidas", url: "work-process" },
+  { id: 4, name: "Áreas de Atuação", url: "portfolio" },
+  // { id: 5, name: "Blog", url: "blog" },
+  // { id: 5, name: "Services", url: "services" },
 ];
 const copyrightYear = new Date().getFullYear();
 
